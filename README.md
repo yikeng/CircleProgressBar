@@ -1,2 +1,2 @@
 # CircleProgressBar
-![ScreenShot](https://github.com/yikeng/CircleProgressBar/blob/master/Screenshot.png）
+![image](https://github.com/yikeng/CircleProgressBar/blob/master/Screenshot.png)
