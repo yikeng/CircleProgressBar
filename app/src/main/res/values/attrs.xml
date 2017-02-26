@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgressBar">
+        <attr name="tick_split_angle" format="dimension" />
+        <attr name="tick_block_angle" format="dimension" />
+        <attr name="normal_tick_size" format="dimension"/>
+        <attr name="current_tick_size" format="dimension"/>
+        <attr name="gradient_start_color" format="color"/>
+        <attr name="gradient_end_color" format="color"/>
+        <attr name="tick_normal_color" format="color"/>
+    </declare-styleable>
+</resources>
